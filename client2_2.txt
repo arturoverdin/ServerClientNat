@@ -1,0 +1,3 @@
+connecting to the server 127.0.0.1 at port 40000
+sending register message TestClient2
+sending 127.0.0.1,40000 hello2

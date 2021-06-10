@@ -1,0 +1,2 @@
+server started on 127.0.0.1 at port 40001
+recvfrom 127.0.0.1,16999 hello 
